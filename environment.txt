@@ -1,0 +1,13 @@
+创建环境		conda create --name robot python=3.11.8
+安装pyserial	pip install pyserial
+安装numpy	pip install numpy
+安装pyqt5		pip install PyQt5
+安装matplot	pip install matplotlib
+安装opencv	pip install opencv-python
+			pip install opencv-contrib-python
+安装scipy		pip3 install scipy
+
+
+安装mediapipe	pip install mediapipe
+安装scikit-fuzzy	pip install scikit-fuzzy
+安装networkx	pip install networkx
